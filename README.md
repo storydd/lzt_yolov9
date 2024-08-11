@@ -213,26 +213,6 @@ python detect.py --source './data/images/horses.jpg' --img 640 --device 0 --weig
 ```
 
 
-## Citation
-
-```
-@article{wang2024yolov9,
-  title={{YOLOv9}: Learning What You Want to Learn Using Programmable Gradient Information},
-  author={Wang, Chien-Yao  and Liao, Hong-Yuan Mark},
-  booktitle={arXiv preprint arXiv:2402.13616},
-  year={2024}
-}
-```
-
-```
-@article{chang2023yolor,
-  title={{YOLOR}-Based Multi-Task Learning},
-  author={Chang, Hung-Shuo and Wang, Chien-Yao and Wang, Richard Robert and Chou, Gene and Liao, Hong-Yuan Mark},
-  journal={arXiv preprint arXiv:2309.16921},
-  year={2023}
-}
-```
-
 
 ## Teaser
 
